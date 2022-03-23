@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Real Time Data Analytics in Kafka.**
+- 🔭 I’m currently working on **Real-Time Data Analytics in Kafka.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
