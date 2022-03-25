@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **glizzykun@gmail.com**
 
-- ⚡ Fun fact **I play League and go to the gym very often.**
+- ⚡ Fun fact **I play League of Legends and go to the gym very often.**
 
 ## 🚀 Languages and Tools:
 
